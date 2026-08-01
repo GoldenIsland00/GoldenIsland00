@@ -121,10 +121,10 @@ I am a **Backend Developer & Data Analyst** with a strong engineering mindset an
 <p align="center">
   <!-- Animated GitHub Stats Cards -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiamTaghizadeh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoldenIsland00&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamTaghizadeh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenIsland00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
