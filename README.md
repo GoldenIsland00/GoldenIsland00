@@ -134,9 +134,9 @@ I am a **Backend Developer & Data Analyst** with a strong engineering mindset an
 
 <!-- The famous animated snake eating your contributions. You need to set up a GitHub Action to generate this automatically, or just comment it out for now. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LiamTaghizadeh/LiamTaghizadeh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LiamTaghizadeh/LiamTaghizadeh/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LiamTaghizadeh/LiamTaghizadeh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoldenIsland00/GoldenIsland00/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoldenIsland00/GoldenIsland00/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GoldenIsland00/GoldenIsland00/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 > *💡 Tip: To enable the snake animation, create a `.github/workflows/snake.yml` file in your repo to run the generation script.*
