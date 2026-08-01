@@ -9,7 +9,7 @@
 <p align="center">
   <!-- ANIMATED BANNER PLACEHOLDER -->
   <!-- Replace the src below with your own banner GIF or image -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Esmaeil+Taghizadeh;Backend+Developer+%26+Data+Analyst;Turning+Data+into+Insights;ETL+%7C+APIs+%7C+Python" alt="Animated Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sirgae+Youfski;Backend+Developer+%26+Full+stack+Developer+%26+Data+Analyst;Turning+Data+into+Insights;ETL+%7C+APIs+%7C+Python" alt="Animated Typing Banner" />
 </p>
 
 ---
