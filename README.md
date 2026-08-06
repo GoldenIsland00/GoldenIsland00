@@ -7,8 +7,6 @@
 -->
 
 <p align="center">
-  <!-- ANIMATED BANNER PLACEHOLDER -->
-  <!-- Replace the src below with your own banner GIF or image -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sirgae+Youfski;Backend+Developer+%26;Full+stack+Developer+%26;Data+Analyst;Turning+Data+into+Insights;ETL+%7C+APIs+%7C+Python" alt="Animated Typing Banner" />
 </p>
 
@@ -71,7 +69,6 @@ I am a **Backend Developer & Data Analyst** with a strong engineering mindset an
 - Built an end-to-end data pipeline: Web Scraping (`BeautifulSoup4`, `Selenium`) ➡️ Database Storage (`SQL`) ➡️ Statistical Analysis (`Pandas`, `IPython`).
 - Performed complex hypothesis testing on professional NBA player performance data from Basketball-Reference.com.
 
-<!-- PROJECT DEMO GIF PLACEHOLDER -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3ZGozN3RweWxwcDVpdnJ2eHpmcWZpMmp3MHpnM2dxeHozY3c2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMt9638dO8dftA5BZz/giphy.gif" width="400" alt="Data Analysis Animation">
   <br>
@@ -119,7 +116,6 @@ I am a **Backend Developer & Data Analyst** with a strong engineering mindset an
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Animated GitHub Stats Cards -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoldenIsland00&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
   </a>
@@ -132,14 +128,17 @@ I am a **Backend Developer & Data Analyst** with a strong engineering mindset an
 
 ### 🔥 Contribution Snake (Animated)
 
-<!-- The famous animated snake eating your contributions. You need to set up a GitHub Action to generate this automatically, or just comment it out for now. -->
+<!-- The snake animation requires the GitHub Action to generate these SVG files.
+     If you see broken images, please run the "Generate Snake Animation" workflow
+     in the Actions tab of this repository. -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoldenIsland00/GoldenIsland00/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoldenIsland00/GoldenIsland00/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/GoldenIsland00/GoldenIsland00/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> *💡 Tip: To enable the snake animation, create a `.github/workflows/snake.yml` file in your repo to run the generation script.*
+> 💡 *If the snake doesn't appear, [set up the workflow](#-how-to-enable-the-snake-animation) (see instructions below).*
 
 ---
 
@@ -151,7 +150,7 @@ I'm always open to collaborating on interesting projects or discussing new techn
   <a href="mailto:sirgae.youfski@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/LiamTaghizadeh">
+  <a href="https://github.com/GoldenIsland00">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#">
@@ -163,7 +162,7 @@ I'm always open to collaborating on interesting projects or discussing new techn
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LiamTaghizadeh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=GoldenIsland00&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitor Counter" />
 </p>
 
 ---
