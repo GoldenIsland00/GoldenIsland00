@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400"><style>
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes pulse{0%,100%{opacity:.10}50%{opacity:.32}}
+@keyframes flow{to{stroke-dashoffset:-24}}
+@keyframes twinkle{0%,100%{opacity:.2}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes scan{from{transform:translateY(0)}to{transform:translateY(230px)}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+.a{opacity:0;animation:fade .8s ease forwards}
+.g{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.4s ease forwards}
+.p{animation:pulse 3.2s ease-in-out infinite}
+.f{animation:flow 1.6s linear infinite}
+.t1{animation:twinkle 2.6s ease-in-out infinite}
+.t2{animation:twinkle 3.7s ease-in-out infinite .8s}
+.t3{animation:twinkle 4.4s ease-in-out infinite 1.6s}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 40s linear infinite}
+.scan{animation:scan 5s ease-in-out infinite alternate}
+.live{animation:blink 1.4s ease-in-out infinite}
+.d{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s ease forwards}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+</style>
+<defs><radialGradient id="g" cx="80%" cy="0%" r="90%"><stop offset="0" stop-color="#1a2a5a" stop-opacity=".55"/><stop offset="1" stop-color="#080d1a" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="899" height="399" rx="18" fill="#080d1a" stroke="#1b2745"/>
+<rect x=".5" y=".5" width="899" height="399" rx="18" fill="url(#g)"/>
+<text x="36" y="38" font-size="10" fill="#6b7694" font-weight="normal" text-anchor="start" letter-spacing="3" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">CURRENT FOCUS</text><text x="36" y="80" font-size="20" fill="#e6edf3" font-weight="normal" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.1s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">Ideas taking shape</text><line x1="36" y1="98" x2="864" y2="98" stroke="#1b2745" stroke-dasharray="3 5"/><text x="36" y="150" font-size="30" fill="#4f8cff" font-weight="normal" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.3s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">01</text><line x1="36" y1="172" x2="286" y2="172" stroke="#1b2745"/><text x="36" y="206" font-size="13" fill="#e6edf3" font-weight="bold" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.5s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">—</text><text x="36" y="230" font-size="10" fill="#6b7694" font-weight="normal" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.6s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">Current focus</text><text x="321" y="150" font-size="30" fill="#4f8cff" font-weight="normal" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.5s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">02</text><line x1="321" y1="172" x2="571" y2="172" stroke="#1b2745"/><text x="321" y="206" font-size="13" fill="#e6edf3" font-weight="bold" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.7s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">—</text><text x="321" y="230" font-size="10" fill="#6b7694" font-weight="normal" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.8s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">In the build queue</text><text x="606" y="150" font-size="30" fill="#4f8cff" font-weight="normal" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.7s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">03</text><line x1="606" y1="172" x2="856" y2="172" stroke="#1b2745"/><text x="606" y="206" font-size="13" fill="#e6edf3" font-weight="bold" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.9s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">—</text><text x="606" y="230" font-size="10" fill="#6b7694" font-weight="normal" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:1.0s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">In the build queue</text>
+<text x="878" y="386" text-anchor="end" fill="#2a3556" font-size="10" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">live · updated 2026-11-26</text>
+</svg>

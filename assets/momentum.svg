@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360"><style>
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes pulse{0%,100%{opacity:.10}50%{opacity:.32}}
+@keyframes flow{to{stroke-dashoffset:-24}}
+@keyframes twinkle{0%,100%{opacity:.2}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes scan{from{transform:translateY(0)}to{transform:translateY(230px)}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+.a{opacity:0;animation:fade .8s ease forwards}
+.g{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.4s ease forwards}
+.p{animation:pulse 3.2s ease-in-out infinite}
+.f{animation:flow 1.6s linear infinite}
+.t1{animation:twinkle 2.6s ease-in-out infinite}
+.t2{animation:twinkle 3.7s ease-in-out infinite .8s}
+.t3{animation:twinkle 4.4s ease-in-out infinite 1.6s}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 40s linear infinite}
+.scan{animation:scan 5s ease-in-out infinite alternate}
+.live{animation:blink 1.4s ease-in-out infinite}
+.d{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s ease forwards}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+</style>
+<defs><radialGradient id="g" cx="80%" cy="0%" r="90%"><stop offset="0" stop-color="#1a2a5a" stop-opacity=".55"/><stop offset="1" stop-color="#080d1a" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="899" height="359" rx="18" fill="#080d1a" stroke="#1b2745"/>
+<rect x=".5" y=".5" width="899" height="359" rx="18" fill="url(#g)"/>
+<text x="36" y="38" font-size="10" fill="#6b7694" font-weight="normal" text-anchor="start" letter-spacing="3" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">MOMENTUM</text><text x="36" y="80" font-size="20" fill="#e6edf3" font-weight="normal" text-anchor="start" letter-spacing="0" class="a" style="animation-delay:0.1s" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">Weekly contribution signal</text><line x1="36" y1="98" x2="864" y2="98" stroke="#1b2745" stroke-dasharray="3 5"/><path d="M36.0,300.0 L52.2,300.0 L68.5,300.0 L84.7,300.0 L100.9,300.0 L117.2,300.0 L133.4,300.0 L149.6,300.0 L165.9,300.0 L182.1,300.0 L198.4,300.0 L214.6,300.0 L230.8,300.0 L247.1,300.0 L263.3,300.0 L279.5,300.0 L295.8,300.0 L312.0,300.0 L328.2,300.0 L344.5,300.0 L360.7,300.0 L376.9,300.0 L393.2,300.0 L409.4,300.0 L425.6,300.0 L441.9,300.0 L458.1,300.0 L474.4,300.0 L490.6,300.0 L506.8,300.0 L523.1,300.0 L539.3,300.0 L555.5,300.0 L571.8,300.0 L588.0,300.0 L604.2,300.0 L620.5,300.0 L636.7,300.0 L652.9,300.0 L669.2,300.0 L685.4,300.0 L701.6,300.0 L717.9,300.0 L734.1,300.0 L750.4,300.0 L766.6,300.0 L782.8,300.0 L799.1,300.0 L815.3,300.0 L831.5,300.0 L847.8,300.0 L864.0,300.0 L864.0,300 L36.0,300 Z" fill="#4f8cff" fill-opacity=".12" class="a" style="animation-delay:1.2s"/><path d="M36.0,300.0 L52.2,300.0 L68.5,300.0 L84.7,300.0 L100.9,300.0 L117.2,300.0 L133.4,300.0 L149.6,300.0 L165.9,300.0 L182.1,300.0 L198.4,300.0 L214.6,300.0 L230.8,300.0 L247.1,300.0 L263.3,300.0 L279.5,300.0 L295.8,300.0 L312.0,300.0 L328.2,300.0 L344.5,300.0 L360.7,300.0 L376.9,300.0 L393.2,300.0 L409.4,300.0 L425.6,300.0 L441.9,300.0 L458.1,300.0 L474.4,300.0 L490.6,300.0 L506.8,300.0 L523.1,300.0 L539.3,300.0 L555.5,300.0 L571.8,300.0 L588.0,300.0 L604.2,300.0 L620.5,300.0 L636.7,300.0 L652.9,300.0 L669.2,300.0 L685.4,300.0 L701.6,300.0 L717.9,300.0 L734.1,300.0 L750.4,300.0 L766.6,300.0 L782.8,300.0 L799.1,300.0 L815.3,300.0 L831.5,300.0 L847.8,300.0 L864.0,300.0" pathLength="1" fill="none" stroke="#4f8cff" stroke-width="2" stroke-linejoin="round" class="d"/><line x1="36" y1="300" x2="864" y2="300" stroke="#1b2745"/><circle class="live" cx="864.0" cy="300.0" r="4" fill="#e6edf3"/><text x="36" y="340" font-size="10" fill="#6b7694" font-weight="normal" text-anchor="start" letter-spacing="0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">302 contributions in the last year · peak week 1</text>
+<text x="878" y="346" text-anchor="end" fill="#2a3556" font-size="10" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">live · updated 2026-11-26</text>
+</svg>
