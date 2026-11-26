@@ -1,80 +1,142 @@
-<h1 align="center">Hey 👋 I’m Sirgae youfski</h1>
+<div align="center">
+
+<sub>WOW PROFILE · GOLDENISLAND00 · LIVE</sub>
+
+<img src="./assets/hero.svg" alt="Sirgae youfski — living identity" width="100%" />
+
+**Frontend or full-stack engineer** · the public internet
+
+Just a programmer
+
+[GitHub](https://github.com/GoldenIsland00)
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## Identity, with signal
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Just a programmer
+
+**Focus:** `HTML` · `Python` · `CSS`
+
+<sub>Thoughtful collaboration, ambitious products, and useful open source.</sub>
+
+</td>
+<td width="40%" valign="top">
+
+<!--SIGNAL:START-->
+`LIVE SIGNAL`
+
+**11** repos<br>
+**3** stars<br>
+**302** contributions<br>
+**0** followers
+<!--SIGNAL:END-->
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## What moves the work
+
+<img src="./assets/focus.svg" alt="Current focus" width="100%" />
+
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## The tools behind the signal
+
+<img src="./assets/tools.svg" alt="Technology spectrum" width="100%" />
+
+<p align="center"><sub>Chosen for the work, not the trend</sub></p>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## Built, shipped, shared
+
+<img src="./assets/constellation.svg" alt="Project constellation" width="100%" />
+
+<img src="./assets/timeline.svg" alt="Project launch sequence" width="100%" />
+
+<!--REPOS:START-->
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**[tasks_manager](https://github.com/GoldenIsland00/tasks_manager)**
+
+مدیریت تسک‌های حرفه‌ای
+
+<sub>HTML · ⭐ 1</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**[petrix_city](https://github.com/GoldenIsland00/petrix_city)**
+
+انجمن برنامه نویسان
+
+<sub>HTML · ⭐ 1</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**[GoldenIsland00](https://github.com/GoldenIsland00/GoldenIsland00)**
+
+A selected project from this public body of work.
+
+<sub>Open source · ⭐ 1</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**[loploop](https://github.com/GoldenIsland00/loploop)**
+
+A selected project from this public body of work.
+
+<sub>HTML · ⭐ 0</sub>
+
+</td>
+</tr>
+</table>
+<!--REPOS:END-->
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## Momentum, made visible
+
+<img src="./assets/momentum.svg" alt="Animated GitHub signal" width="100%" />
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## The trail behind the work
+
+<img src="./assets/energy.svg" alt="Contribution energy field" width="100%" />
 
 <p align="center">
-  <!-- بنر پیکسل‌آرت: آدرس تصویر خودت را جایگزین کن -->
-  <img src="./assets/banner.gif" alt="Banner" width="100%" />
+<!--STREAK:START-->
+<sub>0 day current streak · 0 active days</sub>
+<!--STREAK:END-->
 </p>
 
-## 📌 About Me
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-> 💡 ✏️ *A sentence about you and what you do.*
+<p align="center"><sub>KEEP THE SIGNAL MOVING</sub></p>
 
-## 📊 GitHub Stats & Trophies
+## Make something worth noticing
+
+I like working with people who care about craft, context, and shipping the useful version.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoldenIsland00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=GoldenIsland00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/GoldenIsland00"><img src="https://img.shields.io/badge/GitHub-GoldenIsland00-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenIsland00&layout=compact&theme=tokyonight&hide_border=true" alt="Language Stack" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GoldenIsland00&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/4f8cff/GoldenIsland00" alt="Contribution Activity" width="100%" />
-</p>
-
-## 🛠️ Languages & Tools
-
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,php" alt="Programming Languages" />
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="Frontend" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-</p>
-
-### Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" alt="Database" />
-</p>
-
-### DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins" alt="DevOps & Cloud" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,webpack,vite" alt="Tools" />
-</p>
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/GoldenIsland00">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GoldenIsland00/GoldenIsland00/output/github-snake.svg" alt="github-snake" />
-</p>
-
-<p align="center">
-  <sub>Sirgae youfski · creative dev template · generated with <a href="https://gitskins.com">GitSkins</a></sub>
-</p>
+<p align="center"><sub>Sirgae youfski · Wow Profile style · cards auto-generated by GitHub Actions</sub></p>
